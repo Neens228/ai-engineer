@@ -14,6 +14,10 @@ env/
 .env
 *.key
 
+# Базы данных (данные, не код)
+*.db
+*.sqlite3
+
 # ОС / редакторы
 .DS_Store
 Thumbs.db
